@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62419b50-7a4a-4130-aa15-9001e8f2be1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vsa49uCXO6XVkb1LBpDqzrZNqs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/products" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/products" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62419b50-7a4a-4130-aa15-9001e8f2be1a" name="Default Changelist" comment="" />
+      <created>1578044062290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578044062290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="125" key="com.intellij.ide.util.TipDialog" timestamp="1578443852991">
+      <screen x="30" y="23" width="1410" height="877" />
+    </state>
+    <state x="414" y="125" key="com.intellij.ide.util.TipDialog/27.23.1413.877@27.23.1413.877" timestamp="1578201772302" />
+    <state x="419" y="125" key="com.intellij.ide.util.TipDialog/30.23.1410.877@30.23.1410.877" timestamp="1578443852991" />
+    <state x="511" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1578103897389">
+      <screen x="27" y="23" width="1413" height="877" />
+    </state>
+    <state x="511" y="224" width="670" height="676" key="search.everywhere.popup/27.23.1413.877@27.23.1413.877" timestamp="1578103897389" />
+  </component>
+</project>
