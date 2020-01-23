@@ -1,0 +1,5 @@
+price = input("enter price or scan bar code : ")
+Tax = input("Enter or set Tax :")
+total = ((float(float(price)*float(Tax))/100 + float(price)).__round__(2))
+print("Total Amount due :")
+print(total)
